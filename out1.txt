@@ -1,0 +1,277 @@
+----RUNNING PROGRAM IN DEBUG MODE----
+-------------STARTING TRACE----------
+
+Processing a sourceDeparture: 	Packet 1	clock: 0.0012563065498469312
+Processing a sourceDeparture: 	Packet 30	clock: 0.0020730063116465554
+Processing a sourceDeparture: 	Packet 8	clock: 0.002090752346578877
+Processing a sourceDeparture: 	Packet 38	clock: 0.002093719893134287
+Processing a sourceDeparture: 	Packet 14	clock: 0.0020998617850093004
+Processing a sourceDeparture: 	Packet 15	clock: 0.002113850480947519
+Processing a sourceDeparture: 	Packet 16	clock: 0.002115653973148435
+Processing a sourceDeparture: 	Packet 41	clock: 0.002121061279203747
+Processing a sourceDeparture: 	Packet 27	clock: 0.002128694310500103
+Processing a sourceDeparture: 	Packet 17	clock: 0.0022746465744491553
+Processing a sourceDeparture: 	Packet 10	clock: 0.0022746565056474093
+Processing a sourceDeparture: 	Packet 23	clock: 0.0023392881446564254
+Processing a sourceDeparture: 	Packet 39	clock: 0.0023567682779448234
+Processing a sourceDeparture: 	Packet 21	clock: 0.002380636461930776
+Processing a sourceDeparture: 	Packet 7	clock: 0.002614255366866591
+Processing a sourceDeparture: 	Packet 9	clock: 0.0026721879422047143
+Processing a sourceDeparture: 	Packet 44	clock: 0.002707214433306759
+Processing a sourceDeparture: 	Packet 13	clock: 0.0027208847692584454
+Processing a sourceDeparture: 	Packet 50	clock: 0.0027312317267851856
+Processing a sourceDeparture: 	Packet 5	clock: 0.0027355995732112307
+Processing a sourceDeparture: 	Packet 26	clock: 0.0027590725800825137
+Processing a sourceDeparture: 	Packet 29	clock: 0.0028064225267903087
+Processing a sourceDeparture: 	Packet 45	clock: 0.0028102973954006088
+Processing a sourceDeparture: 	Packet 6	clock: 0.002852510936301103
+Processing a sourceDeparture: 	Packet 42	clock: 0.002864100220348988
+Processing a sourceDeparture: 	Packet 3	clock: 0.0030172447364606152
+Processing a sourceDeparture: 	Packet 46	clock: 0.0031065131851675115
+Processing a sourceDeparture: 	Packet 36	clock: 0.0031095048480536736
+Processing a sourceDeparture: 	Packet 4	clock: 0.003133675586759653
+Processing a sourceDeparture: 	Packet 35	clock: 0.003234155659553884
+Processing a sourceDeparture: 	Packet 19	clock: 0.0033784877259743413
+Processing a sourceDeparture: 	Packet 33	clock: 0.0033984148507863487
+Processing a sourceDeparture: 	Packet 11	clock: 0.0034324688358107125
+Processing a sourceDeparture: 	Packet 28	clock: 0.0034464654594894223
+Processing a sourceDeparture: 	Packet 34	clock: 0.003510709350772433
+Processing a sourceDeparture: 	Packet 48	clock: 0.0035252341306434213
+Processing a sourceDeparture: 	Packet 31	clock: 0.003632504382437765
+Processing a sourceDeparture: 	Packet 32	clock: 0.0037624770658398984
+Processing a sourceDeparture: 	Packet 37	clock: 0.003787061701448696
+Processing a sourceDeparture: 	Packet 20	clock: 0.00384189411795091
+Processing a sourceDeparture: 	Packet 47	clock: 0.004273457644880859
+Processing a sourceDeparture: 	Packet 43	clock: 0.004393885413536304
+Processing a sourceDeparture: 	Packet 24	clock: 0.004453902283734227
+Processing a sourceDeparture: 	Packet 12	clock: 0.004714554155145351
+Processing a sourceDeparture: 	Packet 49	clock: 0.004847046995655526
+Processing a sourceDeparture: 	Packet 40	clock: 0.005063337933673937
+Processing a sourceDeparture: 	Packet 18	clock: 0.005169722414829175
+Processing a sourceDeparture: 	Packet 25	clock: 0.005217458049175439
+Processing a sourceDeparture: 	Packet 2	clock: 0.006368091015769527
+Processing a sourceDeparture: 	Packet 22	clock: 0.008303112187708291
+Processing a routerArrival: 	Packet 41   	clock: 0.015537105605771605
+	server was idle: adding packet to service: 41
+Processing a routerArrival: 	Packet 47   	clock: 0.019604819907143765
+	server was processing, adding packet to single queue: 47
+Processing a routerArrival: 	Packet 22   	clock: 0.04745021246770356
+	server was processing, adding packet to single queue: 22
+Processing a routerArrival: 	Packet 15   	clock: 0.04755432823362286
+	server was processing, adding packet to single queue: 15
+Processing a routerArrival: 	Packet 27   	clock: 0.05353427087578868
+	server was processing, adding packet to single queue: 27
+Processing a routerArrival: 	Packet 36   	clock: 0.05743418509196319
+	Single queue is full, size: 4 Dropped Packet 36
+Processing a routerArrival: 	Packet 39   	clock: 0.05863700261794059
+	Single queue is full, size: 4 Dropped Packet 39
+Processing a RouterDeparture: 	Packet 41   	clock: 0.06553710560577161
+	Moving into service from queue: 47
+Processing a routerArrival: 	Packet 30   	clock: 0.07587885554659698
+	server was processing, adding packet to single queue: 30
+Processing a routerArrival: 	Packet 43   	clock: 0.0769066736998936
+	Single queue is full, size: 4 Dropped Packet 43
+Processing a routerArrival: 	Packet 29   	clock: 0.07947529278560067
+	Single queue is full, size: 4 Dropped Packet 29
+Processing a routerArrival: 	Packet 7   	clock: 0.0848493316000112
+	Single queue is full, size: 4 Dropped Packet 7
+Processing a routerArrival: 	Packet 46   	clock: 0.0991746830265983
+	Single queue is full, size: 4 Dropped Packet 46
+Processing a routerArrival: 	Packet 45   	clock: 0.11166396720446381
+	Single queue is full, size: 4 Dropped Packet 45
+Processing a destArrival: 	Packet 41	clock: 0.11553710560577161
+Processing a RouterDeparture: 	Packet 47   	clock: 0.11553710560577161
+	Moving into service from queue: 22
+Processing a routerArrival: 	Packet 3   	clock: 0.1249331776015093
+	server was processing, adding packet to single queue: 3
+Processing a routerArrival: 	Packet 14   	clock: 0.12698935565018338
+	Single queue is full, size: 4 Dropped Packet 14
+Processing a routerArrival: 	Packet 21   	clock: 0.1374694443316712
+	Single queue is full, size: 4 Dropped Packet 21
+Processing a routerArrival: 	Packet 13   	clock: 0.1476427397144116
+	Single queue is full, size: 4 Dropped Packet 13
+Processing a routerArrival: 	Packet 33   	clock: 0.155004915780584
+	Single queue is full, size: 4 Dropped Packet 33
+Processing a destArrival: 	Packet 47	clock: 0.16553710560577162
+Processing a RouterDeparture: 	Packet 22   	clock: 0.16553710560577162
+	Moving into service from queue: 15
+Processing a routerArrival: 	Packet 38   	clock: 0.21145108386435477
+	server was processing, adding packet to single queue: 38
+Processing a destArrival: 	Packet 22	clock: 0.2155371056057716
+Processing a RouterDeparture: 	Packet 15   	clock: 0.2155371056057716
+	Moving into service from queue: 27
+Processing a routerArrival: 	Packet 17   	clock: 0.22058038017615986
+	server was processing, adding packet to single queue: 17
+Processing a destArrival: 	Packet 15	clock: 0.2655371056057716
+Processing a RouterDeparture: 	Packet 27   	clock: 0.2655371056057716
+	Moving into service from queue: 30
+Processing a routerArrival: 	Packet 34   	clock: 0.2778618159699006
+	server was processing, adding packet to single queue: 34
+Processing a routerArrival: 	Packet 31   	clock: 0.295399751220476
+	Single queue is full, size: 4 Dropped Packet 31
+Processing a routerArrival: 	Packet 2   	clock: 0.2978888558699646
+	Single queue is full, size: 4 Dropped Packet 2
+Processing a routerArrival: 	Packet 20   	clock: 0.31148555194664074
+	Single queue is full, size: 4 Dropped Packet 20
+Processing a destArrival: 	Packet 27	clock: 0.3155371056057716
+Processing a RouterDeparture: 	Packet 30   	clock: 0.3155371056057716
+	Moving into service from queue: 3
+Processing a routerArrival: 	Packet 16   	clock: 0.3342209442643889
+	server was processing, adding packet to single queue: 16
+Processing a destArrival: 	Packet 30	clock: 0.3655371056057716
+Processing a RouterDeparture: 	Packet 3   	clock: 0.3655371056057716
+	Moving into service from queue: 38
+Processing a routerArrival: 	Packet 26   	clock: 0.3744681537897831
+	server was processing, adding packet to single queue: 26
+Processing a routerArrival: 	Packet 19   	clock: 0.3921334600725273
+	Single queue is full, size: 4 Dropped Packet 19
+Processing a routerArrival: 	Packet 40   	clock: 0.3947934799894281
+	Single queue is full, size: 4 Dropped Packet 40
+Processing a routerArrival: 	Packet 32   	clock: 0.39905828961047285
+	Single queue is full, size: 4 Dropped Packet 32
+Processing a routerArrival: 	Packet 25   	clock: 0.4036021935501651
+	Single queue is full, size: 4 Dropped Packet 25
+Processing a routerArrival: 	Packet 12   	clock: 0.40513701941811586
+	Single queue is full, size: 4 Dropped Packet 12
+Processing a routerArrival: 	Packet 50   	clock: 0.41185215144277504
+	Single queue is full, size: 4 Dropped Packet 50
+Processing a routerArrival: 	Packet 6   	clock: 0.413162869394439
+	Single queue is full, size: 4 Dropped Packet 6
+Processing a destArrival: 	Packet 3	clock: 0.41553710560577156
+Processing a RouterDeparture: 	Packet 38   	clock: 0.41553710560577156
+	Moving into service from queue: 17
+Processing a routerArrival: 	Packet 28   	clock: 0.44858587205239336
+	server was processing, adding packet to single queue: 28
+Processing a destArrival: 	Packet 38	clock: 0.46553710560577155
+Processing a RouterDeparture: 	Packet 17   	clock: 0.46553710560577155
+	Moving into service from queue: 34
+Processing a routerArrival: 	Packet 42   	clock: 0.46897054096852053
+	server was processing, adding packet to single queue: 42
+Processing a destArrival: 	Packet 17	clock: 0.5155371056057716
+Processing a RouterDeparture: 	Packet 34   	clock: 0.5155371056057716
+	Moving into service from queue: 16
+Processing a routerArrival: 	Packet 10   	clock: 0.5304219877120314
+	server was processing, adding packet to single queue: 10
+Processing a routerArrival: 	Packet 9   	clock: 0.5449916040492985
+	Single queue is full, size: 4 Dropped Packet 9
+Processing a destArrival: 	Packet 34	clock: 0.5655371056057716
+Processing a RouterDeparture: 	Packet 16   	clock: 0.5655371056057716
+	Moving into service from queue: 26
+Processing a routerArrival: 	Packet 1   	clock: 0.5978713185368483
+	server was processing, adding packet to single queue: 1
+Processing a destArrival: 	Packet 16	clock: 0.6155371056057717
+Processing a RouterDeparture: 	Packet 26   	clock: 0.6155371056057717
+	Moving into service from queue: 28
+Processing a destArrival: 	Packet 26	clock: 0.6655371056057717
+Processing a RouterDeparture: 	Packet 28   	clock: 0.6655371056057717
+	Moving into service from queue: 42
+Processing a routerArrival: 	Packet 48   	clock: 0.6659607491970871
+	server was processing, adding packet to single queue: 48
+Processing a destArrival: 	Packet 28	clock: 0.7155371056057718
+Processing a RouterDeparture: 	Packet 42   	clock: 0.7155371056057718
+	Moving into service from queue: 10
+Processing a routerArrival: 	Packet 37   	clock: 0.7194959293430688
+	server was processing, adding packet to single queue: 37
+Processing a destArrival: 	Packet 42	clock: 0.7655371056057718
+Processing a RouterDeparture: 	Packet 10   	clock: 0.7655371056057718
+	Moving into service from queue: 1
+Processing a routerArrival: 	Packet 44   	clock: 0.7805506154593597
+	server was processing, adding packet to single queue: 44
+Processing a routerArrival: 	Packet 11   	clock: 0.7826589745394573
+	server was processing, adding packet to single queue: 11
+Processing a routerArrival: 	Packet 49   	clock: 0.7834857633453166
+	Single queue is full, size: 4 Dropped Packet 49
+Processing a destArrival: 	Packet 10	clock: 0.8155371056057719
+Processing a RouterDeparture: 	Packet 1   	clock: 0.8155371056057719
+	Moving into service from queue: 48
+Processing a routerArrival: 	Packet 23   	clock: 0.8305079855679457
+	server was processing, adding packet to single queue: 23
+Processing a destArrival: 	Packet 1	clock: 0.8655371056057719
+Processing a RouterDeparture: 	Packet 48   	clock: 0.8655371056057719
+	Moving into service from queue: 37
+Processing a routerArrival: 	Packet 18   	clock: 0.8686929344459885
+	server was processing, adding packet to single queue: 18
+Processing a routerArrival: 	Packet 24   	clock: 0.8868468058902728
+	Single queue is full, size: 4 Dropped Packet 24
+Processing a routerArrival: 	Packet 5   	clock: 0.8962824167886256
+	Single queue is full, size: 4 Dropped Packet 5
+Processing a destArrival: 	Packet 48	clock: 0.915537105605772
+Processing a RouterDeparture: 	Packet 37   	clock: 0.915537105605772
+	Moving into service from queue: 44
+Processing a routerArrival: 	Packet 35   	clock: 0.9230787458947712
+	server was processing, adding packet to single queue: 35
+Processing a destArrival: 	Packet 37	clock: 0.965537105605772
+Processing a RouterDeparture: 	Packet 44   	clock: 0.965537105605772
+	Moving into service from queue: 11
+Processing a destArrival: 	Packet 44	clock: 1.015537105605772
+Processing a RouterDeparture: 	Packet 11   	clock: 1.015537105605772
+	Moving into service from queue: 23
+Processing a destArrival: 	Packet 11	clock: 1.065537105605772
+Processing a RouterDeparture: 	Packet 23   	clock: 1.065537105605772
+	Moving into service from queue: 18
+Processing a routerArrival: 	Packet 4   	clock: 1.0983595899431295
+	server was processing, adding packet to single queue: 4
+Processing a destArrival: 	Packet 23	clock: 1.1155371056057721
+Processing a RouterDeparture: 	Packet 18   	clock: 1.1155371056057721
+	Moving into service from queue: 35
+Processing a destArrival: 	Packet 18	clock: 1.1655371056057722
+Processing a RouterDeparture: 	Packet 35   	clock: 1.1655371056057722
+	Moving into service from queue: 4
+Processing a destArrival: 	Packet 35	clock: 1.2155371056057722
+Processing a RouterDeparture: 	Packet 4   	clock: 1.2155371056057722
+	Nothing in queues, server is idle
+Processing a routerArrival: 	Packet 8   	clock: 1.2200455709338132
+	server was idle: adding packet to service: 8
+Processing a destArrival: 	Packet 4	clock: 1.2655371056057723
+Processing a RouterDeparture: 	Packet 8   	clock: 1.2700455709338132
+	Nothing in queues, server is idle
+Processing a destArrival: 	Packet 8	clock: 1.3200455709338133
+
+---------------Data--------------------
+
+OCCURENCES OF IMPORTANT EVENTS
+	Total packets sent: 	50
+	Out of order packets: 	1
+	In order packets: 	1
+	No Queued packets: 	2
+	Dropped packets: 	25
+	Destination arrivals: 	25
+
+RATIOS OF IMPORTANT EVENTS
+	Packet out of order rate: 	0.02
+	Packet in order rate:     	0.02
+	No queued packet rated:   	0.04
+	Average packet loss rate: 	0.5
+	Average packet success rate: 	0.5
+	Average packet delay rate: 	0.7145113899310404
+
+ROUTER INFORMATION
+	Max single queue: 4
+
+DESTINATION INFORMATION
+	Order of packets received
+	Packet sequence:	 41
+	Packet sequence:	 47
+	Packet sequence:	 22
+	Packet sequence:	 15
+	Packet sequence:	 27
+	Packet sequence:	 30
+	Packet sequence:	 3
+	Packet sequence:	 38
+	Packet sequence:	 17
+	Packet sequence:	 34
+	Packet sequence:	 16
+	Packet sequence:	 26
+	Packet sequence:	 28
+	Packet sequence:	 42
+	Packet sequence:	 10
+	Packet sequence:	 1
+	Packet sequence:	 48
+	Packet sequence:	 37
+	Packet sequence:	 44
+	Packet sequence:	 11
+	Packet sequence:	 23
+	Packet sequence:	 18
+	Packet sequence:	 35
+	Packet sequence:	 4
+	Packet sequence:	 8
