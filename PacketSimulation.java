@@ -354,7 +354,7 @@ public  class PacketSimulation {
 
 //-----------------------Distributions----------------------
 
-		//This method is copied from the sim.java from a1,a2,a3
+	//This method is copied from the sim.java from a1,a2,a3
 	public static double SaveNormal;
 	public static int  NumNormals = 0;
 	public static final double  PI = 3.1415927 ;
